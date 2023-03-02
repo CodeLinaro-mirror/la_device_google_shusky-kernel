@@ -95005,10 +95005,10 @@ ffffffc009d185c0 D kallsyms_token_index
 ffffffc009d49205 d trunc_msg
 ffffffc009d4d345 d f_midi_shortname
 ffffffc009d599dc d show_irq_gap.zeros
-ffffffc009d7eb71 d max_tt_usecs
-ffffffc009d8f83d d f_midi_longname
-ffffffc009da6236 d pty_line_name.ptychar
-ffffffc009dd1d5d d task_index_to_char.state_char.9703
+ffffffc009d7eb63 d max_tt_usecs
+ffffffc009d8f7e6 d f_midi_longname
+ffffffc009da61df d pty_line_name.ptychar
+ffffffc009dd1d06 d task_index_to_char.state_char.9703
 ffffffc009e2f470 d str__initcall__trace_system_name
 ffffffc009e2f479 d __param_str_initcall_debug
 ffffffc009e2f48c d slot_type_char
