@@ -39,6 +39,7 @@ extra/private/google-modules/soc/gs/drivers/soc/google/vh/kernel/systrace.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/vh/kernel/cgroup/vh_cgroup.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/vh/kernel/pixel_em/pixel_em.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/vh/kernel/thermal/vh_thermal.ko
+extra/private/google-modules/soc/gs/drivers/soc/google/vh/kernel/metrics/pixel_metrics.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/gs-chipid.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/cal-if/cmupmucal.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/exynos-pmu-if.ko
@@ -134,6 +135,7 @@ extra/private/google-modules/soc/gs/drivers/block/zram/zcomp_cpu.ko
 extra/private/google-modules/soc/gs/drivers/block/zram/zcomp_eh.ko
 extra/private/google-modules/aoc/aoc_core.ko
 extra/private/google-modules/aoc/aoc_tbn_service_dev.ko
+extra/private/google-modules/aoc/alsa/aoc_alsa_dev_util.ko
 extra/private/google-modules/aoc/usb/aoc_usb_driver.ko
 extra/private/google-modules/bms/google-bms.ko
 extra/private/google-modules/bms/google-battery.ko
@@ -163,8 +165,8 @@ extra/private/devices/google/shusky/display/panel-google-bigsurf.ko
 extra/private/devices/google/shusky/display/panel-google-hk3.ko
 extra/private/devices/google/shusky/display/panel-google-shoreline.ko
 extra/private/google-modules/edgetpu/rio/drivers/edgetpu/rio.ko
-extra/private/google-modules/gpu/mali_kbase/mali_kbase.ko
 extra/private/google-modules/gpu/mali_pixel/mali_pixel.ko
+extra/private/google-modules/gpu/mali_kbase/mali_kbase.ko
 extra/private/google-modules/nfc/st21nfc.ko
 extra/private/google-modules/nfc/ese/st54spi.ko
 extra/private/google-modules/touch/common/touch_bus_negotiator.ko
