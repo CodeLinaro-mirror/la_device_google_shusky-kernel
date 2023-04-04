@@ -97070,10 +97070,10 @@ ffffffc009a54a78 D kallsyms_token_table
 ffffffc009a54e20 D kallsyms_token_index
 ffffffc009a8f083 d trunc_msg
 ffffffc009a939f3 d f_midi_shortname
-ffffffc009aa25e7 d show_irq_gap.zeros
-ffffffc009acc5bf d max_tt_usecs
-ffffffc009ae21cd d f_midi_longname
-ffffffc009afdcc6 d pty_line_name.ptychar
+ffffffc009aa25b3 d show_irq_gap.zeros
+ffffffc009acc5d5 d max_tt_usecs
+ffffffc009ae21e3 d f_midi_longname
+ffffffc009afdd10 d pty_line_name.ptychar
 ffffffc009b32dd2 d task_index_to_char.state_char.11354
 ffffffc009b9fa44 d str__initcall__trace_system_name
 ffffffc009b9fa4d d __param_str_initcall_debug

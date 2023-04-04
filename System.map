@@ -85772,10 +85772,10 @@ ffffffc00991d428 D kallsyms_token_table
 ffffffc00991d7d8 D kallsyms_token_index
 ffffffc009954994 d trunc_msg
 ffffffc009959423 d f_midi_shortname
-ffffffc0099673c8 d show_irq_gap.zeros
-ffffffc00998d79d d max_tt_usecs
-ffffffc0099a03c1 d f_midi_longname
-ffffffc0099b95d0 d pty_line_name.ptychar
+ffffffc009967394 d show_irq_gap.zeros
+ffffffc00998d7b3 d max_tt_usecs
+ffffffc0099a03d7 d f_midi_longname
+ffffffc0099b961a d pty_line_name.ptychar
 ffffffc0099ea495 d task_index_to_char.state_char.9575
 ffffffc009a4fc6c d str__initcall__trace_system_name
 ffffffc009a4fc75 d __param_str_initcall_debug
