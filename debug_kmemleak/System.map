@@ -95195,13 +95195,13 @@ ffffffc0097ceb20 D kallsyms_names
 ffffffc009a2c748 D kallsyms_markers
 ffffffc009a2d1a8 D kallsyms_token_table
 ffffffc009a2d548 D kallsyms_token_index
-ffffffc009a62b61 d trunc_msg
-ffffffc009a67066 d f_midi_shortname
-ffffffc009a75241 d show_irq_gap.zeros
+ffffffc009a62b1f d trunc_msg
+ffffffc009a67024 d f_midi_shortname
+ffffffc009a751ff d show_irq_gap.zeros
 ffffffc009a9caab d max_tt_usecs
 ffffffc009aaf613 d f_midi_longname
 ffffffc009ac8e88 d pty_line_name.ptychar
-ffffffc009af99cd d task_index_to_char.state_char.9564
+ffffffc009af9999 d task_index_to_char.state_char.9564
 ffffffc009b6020a d str__initcall__trace_system_name
 ffffffc009b60213 d __param_str_initcall_debug
 ffffffc009b60226 d slot_type_char
