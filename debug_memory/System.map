@@ -96827,11 +96827,11 @@ ffffffc009981cc0 D kallsyms_token_table
 ffffffc009982058 D kallsyms_token_index
 ffffffc0099bd480 d trunc_msg
 ffffffc0099c2174 d f_midi_shortname
-ffffffc0099d1d20 d show_irq_gap.zeros
-ffffffc0099fd3c0 d max_tt_usecs
+ffffffc0099d1cdd d show_irq_gap.zeros
+ffffffc0099fd3f5 d max_tt_usecs
 ffffffc009a11543 d f_midi_longname
 ffffffc009a2c6e5 d pty_line_name.ptychar
-ffffffc009a6243c d task_index_to_char.state_char.10719
+ffffffc009a62487 d task_index_to_char.state_char.10719
 ffffffc009acd75e d str__initcall__trace_system_name
 ffffffc009acd767 d __param_str_initcall_debug
 ffffffc009acd77a d slot_type_char

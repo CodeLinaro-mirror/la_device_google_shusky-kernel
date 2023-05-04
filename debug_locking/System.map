@@ -97202,11 +97202,11 @@ ffffffc009a557a8 D kallsyms_token_table
 ffffffc009a55b50 D kallsyms_token_index
 ffffffc009a9103d d trunc_msg
 ffffffc009a95c22 d f_midi_shortname
-ffffffc009aa59a4 d show_irq_gap.zeros
-ffffffc009ad0943 d max_tt_usecs
+ffffffc009aa5961 d show_irq_gap.zeros
+ffffffc009ad0978 d max_tt_usecs
 ffffffc009ae4b57 d f_midi_longname
 ffffffc009affcc5 d pty_line_name.ptychar
-ffffffc009b35bd0 d task_index_to_char.state_char.11348
+ffffffc009b35c1b d task_index_to_char.state_char.11348
 ffffffc009ba0d42 d str__initcall__trace_system_name
 ffffffc009ba0d4b d __param_str_initcall_debug
 ffffffc009ba0d5e d slot_type_char
