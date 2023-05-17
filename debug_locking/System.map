@@ -96602,7 +96602,7 @@ ffffffc0096b4490 d ROT8
 ffffffc0096b44a8 D kernel_config_data
 ffffffc0096be736 D kernel_config_data_end
 ffffffc0096be73e D kernel_headers_data
-ffffffc0096d9262 D kernel_headers_data_end
+ffffffc0096d9266 D kernel_headers_data_end
 ffffffc0096d9268 D kallsyms_offsets
 ffffffc009785ae8 D kallsyms_relative_base
 ffffffc009785af0 D kallsyms_num_syms
@@ -96613,10 +96613,10 @@ ffffffc009a03c30 D kallsyms_token_index
 ffffffc009a40438 d trunc_msg
 ffffffc009a453ca d f_midi_shortname
 ffffffc009a54d35 d show_irq_gap.zeros
-ffffffc009a7e01b d max_tt_usecs
-ffffffc009a9244b d f_midi_longname
-ffffffc009aad50d d pty_line_name.ptychar
-ffffffc009ae2d43 d task_index_to_char.state_char.11391
+ffffffc009a7dfd0 d max_tt_usecs
+ffffffc009a92400 d f_midi_longname
+ffffffc009aad4c2 d pty_line_name.ptychar
+ffffffc009ae2cc3 d task_index_to_char.state_char.11391
 ffffffc009b4d142 d str__initcall__trace_system_name
 ffffffc009b4d14b d __param_str_initcall_debug
 ffffffc009b4d15e d slot_type_char

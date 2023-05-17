@@ -96236,10 +96236,10 @@ ffffffc00993fcb8 D kallsyms_token_index
 ffffffc00997c27b d trunc_msg
 ffffffc00998131c d f_midi_shortname
 ffffffc009990b74 d show_irq_gap.zeros
-ffffffc0099ba077 d max_tt_usecs
-ffffffc0099ce416 d f_midi_longname
-ffffffc0099e950c d pty_line_name.ptychar
-ffffffc009a1eb8e d task_index_to_char.state_char.10762
+ffffffc0099ba02c d max_tt_usecs
+ffffffc0099ce3cb d f_midi_longname
+ffffffc0099e94c1 d pty_line_name.ptychar
+ffffffc009a1eb0e d task_index_to_char.state_char.10762
 ffffffc009a8970a d str__initcall__trace_system_name
 ffffffc009a89713 d __param_str_initcall_debug
 ffffffc009a89726 d slot_type_char
