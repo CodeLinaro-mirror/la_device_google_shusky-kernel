@@ -61138,11 +61138,11 @@ ffffffc009baca40 D kallsyms_names
 ffffffc009d5f578 D kallsyms_markers
 ffffffc009d5fd60 D kallsyms_token_table
 ffffffc009d60110 D kallsyms_token_index
-ffffffc009d8c7a0 d trunc_msg
-ffffffc009d905b5 d f_midi_shortname
-ffffffc009dbb7cc d max_tt_usecs
-ffffffc009dcacbb d f_midi_longname
-ffffffc009ddf60e d pty_line_name.ptychar
+ffffffc009d8c7e2 d trunc_msg
+ffffffc009d905ad d f_midi_shortname
+ffffffc009dbb7f8 d max_tt_usecs
+ffffffc009dcace7 d f_midi_longname
+ffffffc009ddf5c4 d pty_line_name.ptychar
 ffffffc009e06e7e d task_index_to_char.state_char
 ffffffc009e06e7e d task_index_to_char.state_char
 ffffffc009e06e7e d task_index_to_char.state_char
