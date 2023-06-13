@@ -96301,11 +96301,11 @@ ffffffc0098f16f0 D kallsyms_token_table
 ffffffc0098f1a90 D kallsyms_token_index
 ffffffc00992b6e1 d trunc_msg
 ffffffc0099303a1 d f_midi_shortname
-ffffffc00993fcfa d show_irq_gap.zeros
-ffffffc009969dd2 d max_tt_usecs
-ffffffc00997e2cd d f_midi_longname
-ffffffc009999977 d pty_line_name.ptychar
-ffffffc0099cfde3 d task_index_to_char.state_char.10796
+ffffffc00993fd2e d show_irq_gap.zeros
+ffffffc009969e06 d max_tt_usecs
+ffffffc00997e2b7 d f_midi_longname
+ffffffc0099999a3 d pty_line_name.ptychar
+ffffffc0099cfe59 d task_index_to_char.state_char.10796
 ffffffc009a3bc92 d str__initcall__trace_system_name
 ffffffc009a3bc9b d __param_str_initcall_debug
 ffffffc009a3bcae d slot_type_char

@@ -94731,11 +94731,11 @@ ffffffc0097fd460 D kallsyms_token_table
 ffffffc0097fd800 D kallsyms_token_index
 ffffffc009832940 d trunc_msg
 ffffffc009836fcb d f_midi_shortname
-ffffffc00984535c d show_irq_gap.zeros
-ffffffc00986c10f d max_tt_usecs
-ffffffc00987ee71 d f_midi_longname
-ffffffc0098981a0 d pty_line_name.ptychar
-ffffffc0098ca284 d task_index_to_char.state_char.9653
+ffffffc009845390 d show_irq_gap.zeros
+ffffffc00986c143 d max_tt_usecs
+ffffffc00987ee5b d f_midi_longname
+ffffffc0098981cc d pty_line_name.ptychar
+ffffffc0098ca2fa d task_index_to_char.state_char.9653
 ffffffc00992f94a d str__initcall__trace_system_name
 ffffffc00992f953 d __param_str_initcall_debug
 ffffffc00992f966 d slot_type_char
