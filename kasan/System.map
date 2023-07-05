@@ -61182,11 +61182,11 @@ ffffffc009d74f76 d trunc_msg
 ffffffc009d78d66 d f_midi_shortname
 ffffffc009da3f6c d max_tt_usecs
 ffffffc009db3412 d f_midi_longname
-ffffffc009dc7d5c d pty_line_name.ptychar
-ffffffc009def56a d task_index_to_char.state_char
-ffffffc009def56a d task_index_to_char.state_char
-ffffffc009def56a d task_index_to_char.state_char
-ffffffc009def56a d task_index_to_char.state_char
+ffffffc009dc7d11 d pty_line_name.ptychar
+ffffffc009def5ad d task_index_to_char.state_char
+ffffffc009def5ad d task_index_to_char.state_char
+ffffffc009def5ad d task_index_to_char.state_char
+ffffffc009def5ad d task_index_to_char.state_char
 ffffffc009e2f390 d slot_type_char
 ffffffc009e2f394 d HIDPP_FF_CONDITION_CMDS
 ffffffc009e2f39c d mmc_send_bus_test.testdata_4bit

@@ -94819,8 +94819,8 @@ ffffffc00988e892 d f_midi_shortname
 ffffffc00989c7f2 d show_irq_gap.zeros
 ffffffc0098c3267 d max_tt_usecs
 ffffffc0098d5ff6 d f_midi_longname
-ffffffc0098ee6cd d pty_line_name.ptychar
-ffffffc009920901 d task_index_to_char.state_char.9764
+ffffffc0098ee682 d pty_line_name.ptychar
+ffffffc009920944 d task_index_to_char.state_char.9764
 ffffffc0099867d6 d str__initcall__trace_system_name
 ffffffc0099867df d __param_str_initcall_debug
 ffffffc0099867f2 d slot_type_char
