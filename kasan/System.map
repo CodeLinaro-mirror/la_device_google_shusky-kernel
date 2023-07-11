@@ -61180,9 +61180,9 @@ ffffffc009d484c0 D kallsyms_token_table
 ffffffc009d48870 D kallsyms_token_index
 ffffffc009d74f41 d trunc_msg
 ffffffc009d78d31 d f_midi_shortname
-ffffffc009da3f6c d max_tt_usecs
-ffffffc009db3412 d f_midi_longname
-ffffffc009dc7d11 d pty_line_name.ptychar
+ffffffc009da3f37 d max_tt_usecs
+ffffffc009db33dd d f_midi_longname
+ffffffc009dc7cdc d pty_line_name.ptychar
 ffffffc009def51f d task_index_to_char.state_char
 ffffffc009def51f d task_index_to_char.state_char
 ffffffc009def51f d task_index_to_char.state_char
