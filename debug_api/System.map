@@ -94817,10 +94817,10 @@ ffffffc009853b68 D kallsyms_token_index
 ffffffc00988aa76 d trunc_msg
 ffffffc00988f3e8 d f_midi_shortname
 ffffffc00989d768 d show_irq_gap.zeros
-ffffffc0098c3556 d max_tt_usecs
-ffffffc0098d6eb9 d f_midi_longname
-ffffffc0098ef6c2 d pty_line_name.ptychar
-ffffffc0099206e2 d task_index_to_char.state_char.9764
+ffffffc0098c3512 d max_tt_usecs
+ffffffc0098d6ec1 d f_midi_longname
+ffffffc0098ef67e d pty_line_name.ptychar
+ffffffc0099206d4 d task_index_to_char.state_char.9764
 ffffffc009986c3e d str__initcall__trace_system_name
 ffffffc009986c47 d __param_str_initcall_debug
 ffffffc009986c5a d slot_type_char
