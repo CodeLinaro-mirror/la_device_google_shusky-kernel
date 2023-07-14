@@ -96325,10 +96325,10 @@ ffffffc0098d7520 D kallsyms_token_index
 ffffffc009912bea d trunc_msg
 ffffffc0099179cb d f_midi_shortname
 ffffffc009927276 d show_irq_gap.zeros
-ffffffc0099502f3 d max_tt_usecs
-ffffffc00996530d d f_midi_longname
-ffffffc00997fcdf d pty_line_name.ptychar
-ffffffc0099b4da6 d task_index_to_char.state_char.10784
+ffffffc0099502af d max_tt_usecs
+ffffffc009965315 d f_midi_longname
+ffffffc00997fc9b d pty_line_name.ptychar
+ffffffc0099b4d98 d task_index_to_char.state_char.10784
 ffffffc009a21b4a d str__initcall__trace_system_name
 ffffffc009a21b53 d __param_str_initcall_debug
 ffffffc009a21b66 d slot_type_char
