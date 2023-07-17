@@ -96331,7 +96331,7 @@ ffffffc0099263e9 d show_irq_gap.zeros
 ffffffc0099500f9 d max_tt_usecs
 ffffffc00996453f d f_midi_longname
 ffffffc00997ee5b d pty_line_name.ptychar
-ffffffc0099b5165 d task_index_to_char.state_char.10784
+ffffffc0099b516d d task_index_to_char.state_char.10784
 ffffffc009a2170e d str__initcall__trace_system_name
 ffffffc009a21717 d __param_str_initcall_debug
 ffffffc009a2172a d slot_type_char
